@@ -78,7 +78,7 @@ Verilerinizi satmayız. Yalnızca hizmeti çalıştırmak için gerekli olan ve 
 Ayrıca kanunen zorunlu olduğu durumlarda yetkili kamu kurum ve kuruluşlarıyla paylaşılabilir.
 
 ## 6. Yurt dışına aktarım
-Sunucumuz İrlanda'dadır (AB). E-posta gönderimi için Google kullanıldığından e-posta adresiniz ve gönderilen e-postanın içeriği ABD dahil Google sunucularında işlenebilir. Türkiye'deki kullanıcılar için bu aktarım, kayıt sırasında verdiğiniz açık rızaya (KVKK m.9) dayanır; rıza vermezseniz uygulamayı misafir olarak kullanabilirsiniz. AEA'dan yapılan aktarımlar GDPR'ın V. bölümündeki güvencelere (AB Standart Sözleşme Maddeleri, AB-ABD Veri Gizliliği Çerçevesi) dayanır. Ayrıntı için [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.md)'ne bakın.
+Sunucumuz İrlanda'dadır (AB). E-posta gönderimi için Google kullanıldığından e-posta adresiniz ve gönderilen e-postanın içeriği ABD dahil Google sunucularında işlenebilir. Veritabanının şifrelenmiş yedeği ABD'deki GitHub sunucularında en fazla 30 gün saklanır. Türkiye'deki kullanıcılar için bu aktarım, kayıt sırasında verdiğiniz açık rızaya (KVKK m.9) dayanır; rıza vermezseniz uygulamayı misafir olarak kullanabilirsiniz. AEA'dan yapılan aktarımlar GDPR'ın V. bölümündeki güvencelere (AB Standart Sözleşme Maddeleri, AB-ABD Veri Gizliliği Çerçevesi) dayanır. Ayrıntı için [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.md)'ne bakın.
 
 ## 7. Saklama süreleri
 | Veri | Süre |

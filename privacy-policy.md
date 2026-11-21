@@ -76,7 +76,7 @@ We do not sell your data. It is shared only with these service providers, who wo
 Data may also be disclosed to competent public authorities where the law requires it.
 
 ## 6. International transfers
-Our server is in Ireland (EU). Because Google is used to send e-mails, your e-mail address and the content of the e-mail sent to you may be processed on Google servers, including in the USA. Transfers from the EEA rely on safeguards under Chapter V of the GDPR (for example the EU Standard Contractual Clauses or the EU-US Data Privacy Framework). For users in Türkiye, the transfer relies on the explicit consent you give when you create an account (KVKK Article 9); if you do not consent, you can use the App as a guest. See the [KVKK Information Notice](kvkk-aydinlatma-metni.md) for details.
+Our server is in Ireland (EU). Because Google is used to send e-mails, your e-mail address and the content of the e-mail sent to you may be processed on Google servers, including in the USA. An encrypted backup of the database is kept for at most 30 days on GitHub servers in the USA. Transfers from the EEA rely on safeguards under Chapter V of the GDPR (for example the EU Standard Contractual Clauses or the EU-US Data Privacy Framework). For users in Türkiye, the transfer relies on the explicit consent you give when you create an account (KVKK Article 9); if you do not consent, you can use the App as a guest. See the [KVKK Information Notice](kvkk-aydinlatma-metni.md) for details.
 
 ## 7. Retention
 | Data | Period |
