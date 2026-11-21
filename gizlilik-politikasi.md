@@ -38,6 +38,7 @@ Misafir modu ilk kez seçildiğinde sunucumuzdaki **anonim bir sayaç** bir art�
 | Uygulama içeriği | Alan ve klasör adları, renk/ikon seçimleri, planlar, yapılacaklar, notlar, seans sonu notları | Verilerinizi yedeklemek ve cihazlarınız arasında eşitlemek |
 | Kullanım kayıtları | Odak/mola seanslarının başlangıç-bitiş zamanı, süresi, hangi klasöre ait olduğu | İstatistik, seri ve geçmiş ekranları; eşitleme |
 | Abonelik durumu | Pro olup olmadığınız | Pro özelliklerini açmak |
+| Onay kaydı | Kayıtta kabul ettiğiniz metinlerin sürümü, kabul tarihi ve (Türkiye için) yurt dışı aktarım rızanızın tarihi | Kabulün kanıtlanması |
 
 **Not içeriği hakkında:** Notlarınıza ne yazacağınıza siz karar verirsiniz. Lütfen notlara sağlık, din, siyasi görüş gibi özel nitelikli kişisel verileri veya başkalarına ait kişisel verileri yazmayın. Bu tür içerik özel olarak işlenmez. Yalnızca sizin yazdığınız metin olarak saklanır.
 

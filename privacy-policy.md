@@ -36,6 +36,7 @@ When guest mode is chosen for the first time, an **anonymous counter** on our se
 | App content | Space and folder names, colour/icon choices, plans, to-dos, notes, end-of-session notes | Backing up your data and syncing it between your devices |
 | Usage records | Start/end time and length of focus and break sessions, and the folder they belong to | Statistics, streak and history screens; sync |
 | Plan status | Whether you are Pro | Unlocking Pro features |
+| Acceptance record | The version of the texts you accepted at sign-up, the date, and (for Türkiye) the date of your cross-border transfer consent | Proving that you accepted |
 
 **About note content:** You decide what you write in your notes. Please do not write special-category data (health, religion, political opinions, etc.) or other people's personal data in notes. Such content is not processed in any special way. It is stored only as the text you wrote.
 
