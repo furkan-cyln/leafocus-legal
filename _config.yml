@@ -1,0 +1,9 @@
+title: Leafocus
+description: Leafocus legal documents
+theme: jekyll-theme-minimal
+permalink: pretty
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
