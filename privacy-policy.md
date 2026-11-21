@@ -31,7 +31,7 @@ When guest mode is chosen for the first time, an **anonymous counter** on our se
 ### 3.2 When you create an account
 | Data | Example | Why |
 |---|---|---|
-| Identity and contact | E-mail address, display name (if given, otherwise the part of the e-mail before @) | Account creation, sign-in, verification and password reset codes |
+| Identity and contact | E-mail address, display name (if given, otherwise the part of the e-mail before @); if you sign in with Google, the name, e-mail and profile picture link from your Google account | Account creation, sign-in, verification and password reset codes |
 | Account security | Password (stored only as a one-way hash; we never see it in plain text), session tokens | Secure sign-in |
 | App content | Space and folder names, colour/icon choices, plans, to-dos, notes, end-of-session notes | Backing up your data and syncing it between your devices |
 | Usage records | Start/end time and length of focus and break sessions, and the folder they belong to | Statistics, streak and history screens; sync |
@@ -70,7 +70,7 @@ We do not sell your data. It is shared only with these service providers, who wo
 | Provider | Purpose | Data location |
 |---|---|---|
 | Supabase Inc. (infrastructure on Amazon Web Services) | Database, authentication, server | EU, Ireland (eu-west-1) |
-| Google LLC (Gmail) | Sending verification and password reset e-mails | Google servers (including the USA) |
+| Google LLC (Gmail, Google Sign-In) | Sending verification and password reset e-mails; authentication when you choose "Continue with Google" | Google servers (including the USA) |
 | GitHub, Inc. (Microsoft) | Storing an encrypted backup of the database (unreadable to GitHub, deleted after 30 days) | USA |
 | Google Play / Apple App Store | Distributing the App (the store also processes data under its own policy) | The respective company's servers |
 

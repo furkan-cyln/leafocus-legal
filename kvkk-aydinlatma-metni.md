@@ -46,7 +46,7 @@ Pazarlama veya reklam amaçlı işleme yapılmamaktadır. Bu nedenle bu amaçlar
 | Alıcı | Amaç | Konum |
 |---|---|---|
 | Supabase Inc. (barındırma ve kimlik doğrulama hizmeti, altyapısı Amazon Web Services) | Verilerin saklanması, kimlik doğrulama | İrlanda (AB) |
-| Google LLC (Gmail e-posta hizmeti) | Doğrulama ve şifre sıfırlama e-postalarının gönderilmesi | ABD ve diğer Google veri merkezleri |
+| Google LLC (Gmail e-posta hizmeti, Google ile giriş) | Doğrulama ve şifre sıfırlama e-postalarının gönderilmesi; "Google ile devam et" seçeneğinde kimlik doğrulama | ABD ve diğer Google veri merkezleri |
 | GitHub, Inc. (Microsoft) | Veritabanının şifrelenmiş yedeğinin saklanması (içeriği okunamaz, 30 gün sonra silinir) | ABD |
 | Yetkili kamu kurum ve kuruluşları | Kanuni yükümlülükler | Türkiye |
 

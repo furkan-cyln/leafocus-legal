@@ -33,7 +33,7 @@ Misafir modu ilk kez seçildiğinde sunucumuzdaki **anonim bir sayaç** bir art�
 ### 3.2 Hesap açtığınızda
 | Veri | Örnek | Neden |
 |---|---|---|
-| Kimlik ve iletişim | E-posta adresi, görünen ad (girdiyseniz, yoksa e-postanın @ öncesi) | Hesap oluşturma, giriş, doğrulama ve şifre sıfırlama kodları |
+| Kimlik ve iletişim | E-posta adresi, görünen ad (girdiyseniz, yoksa e-postanın @ öncesi); Google ile girerseniz Google hesabınızdaki ad, e-posta ve profil fotoğrafı bağlantısı | Hesap oluşturma, giriş, doğrulama ve şifre sıfırlama kodları |
 | Hesap güvenliği | Şifre (yalnızca tek yönlü şifrelenmiş/hash hâlinde, açık hâlini görmeyiz), oturum anahtarları | Güvenli giriş |
 | Uygulama içeriği | Alan ve klasör adları, renk/ikon seçimleri, planlar, yapılacaklar, notlar, seans sonu notları | Verilerinizi yedeklemek ve cihazlarınız arasında eşitlemek |
 | Kullanım kayıtları | Odak/mola seanslarının başlangıç-bitiş zamanı, süresi, hangi klasöre ait olduğu | İstatistik, seri ve geçmiş ekranları; eşitleme |
@@ -72,7 +72,7 @@ Verilerinizi satmayız. Yalnızca hizmeti çalıştırmak için gerekli olan ve 
 | Sağlayıcı | Ne için | Veri nerede |
 |---|---|---|
 | Supabase Inc. (altyapısı Amazon Web Services) | Veritabanı, kimlik doğrulama, sunucu | AB, İrlanda (eu-west-1) |
-| Google LLC (Gmail) | Doğrulama ve şifre sıfırlama e-postalarının gönderilmesi | Google sunucuları (ABD dahil) |
+| Google LLC (Gmail, Google ile giriş) | Doğrulama ve şifre sıfırlama e-postalarının gönderilmesi; "Google ile devam et" seçeneğinde kimlik doğrulama | Google sunucuları (ABD dahil) |
 | GitHub, Inc. (Microsoft) | Veritabanının şifrelenmiş yedeği (içeriği GitHub okuyamaz, 30 gün sonra silinir) | ABD |
 | Google Play / Apple App Store | Uygulamanın dağıtımı (mağaza kendi politikasıyla ayrıca veri işler) | İlgili şirketin sunucuları |
 
